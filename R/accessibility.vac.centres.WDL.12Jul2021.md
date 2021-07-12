@@ -15,7 +15,7 @@ OPENCAGE_KEY="***************************************" #2,500 processing per day
 ```
 
 ## Key reference
-+ [Mapping Inequalities in COVID-19 Vaccine Accessibility](https://data.cdrc.ac.uk/stories/mapping-inequalities-covid-19-vaccine-accessibility), developed by MSOA level using Python code.
++ [Mapping Inequalities in COVID-19 Vaccine Accessibility](https://data.cdrc.ac.uk/stories/mapping-inequalities-covid-19-vaccine-accessibility),developed by MSOA level using Python code.
 + Yet, further analysis will be required to examine the association between accessibility and vaccination uptake, such as correlation test and regression model.
 
 ## Research framework
