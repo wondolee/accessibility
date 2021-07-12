@@ -2,7 +2,6 @@
 title: "Accessibility analysis to the NHS vaccination centre"
 author: "Won Do Lee"
 date: "10 July 2021"
-output: html_document
 ---
 
 # Accessibility analysis to the mass COVID-19 vaccination centres across England, by car, bike, and on foot.
