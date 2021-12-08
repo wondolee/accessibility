@@ -6,8 +6,8 @@ This is a repository to provide R codes with public datasets necessary for explo
 ## Authors
 * Won Do Lee ([Transport Studies Unit](https://www.tsu.ox.ac.uk/people/wdlee.html), School of Geography and the Environment, University of Oxford)
 * Hannah Budnitz ([Transport Studies Unit](https://www.tsu.ox.ac.uk/people/wdlee.html), School of Geography and the Environment, University of Oxford)
-* Tim Schwanen ([Transport Studies Unit](https://www.tsu.ox.ac.uk/people/wdlee.html), School of Geography and the Environment, University of Oxford)
 * Gordon Stokes ([Transport Studies Unit](https://www.tsu.ox.ac.uk/people/wdlee.html), School of Geography and the Environment, University of Oxford)
+* Tim Schwanen ([Transport Studies Unit](https://www.tsu.ox.ac.uk/people/wdlee.html), School of Geography and the Environment, University of Oxford)
 
 ## Running the R Code
 Please check the instructions on the code folder in advance.
