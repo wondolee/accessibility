@@ -1,7 +1,7 @@
 ![map vac cen car 60](https://user-images.githubusercontent.com/61145109/142977088-afd1da77-e63a-44fd-b3be-2324aead8f8e.png)
 
 ## Introduction
-This is a repository to provide R codes with public datasets necessary for exploring inequalities in access to COVID-19 vaccine for England using spatailly clustered regression model (developed by Sugasawa, S. and Murakami, D.).
+This is a repository to provide R codes with public datasets necessary for exploring inequalities in access to COVID-19 vaccine for England using spatially clustered regression model (developed by Sugasawa, S. and Murakami, D., see [their github](https://github.com/sshonosuke/SCR)).
 
 ## Authors
 * Won Do Lee ([Transport Studies Unit](https://www.tsu.ox.ac.uk/people/wdlee.html), School of Geography and the Environment, University of Oxford)
